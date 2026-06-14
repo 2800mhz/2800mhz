@@ -1,6 +1,6 @@
 ### Hey, I'm 2800mhz
 
-**AI Builder** | **Independent Game Developer**
+**AI Builder** | **Full Stack Unity&Blender Game Developer**
 
 ---
 
