@@ -1,15 +1,22 @@
 ### Hey, I'm 2800mhz
 
-**AI Builder** | **Full Stack Unity&Blender Game Developer**
+**AI Builder** | **Independent Game Developer**
 
 ---
 
 ### About Me
 
 * Crafting the future of interactive media and 3D pipelines.
-* Building local AI server clusters and autonomous agents.
-* Working on custom tools like Story Shot Studio.
 * Always experimenting with high-performance computing and technical art.
+
+---
+
+### Side Quests
+
+* Optimizing local AI server clusters.
+* Running autonomous trading agents.
+* Building a full-stack cinematographic AI agent to bring history back to life through documentaries.
+* Calculating direct ascent trajectories for orbital mechanics.
 
 ---
 
@@ -28,11 +35,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats & Activity
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2800mhz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2800mhz/2800mhz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2800mhz/2800mhz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2800mhz/2800mhz/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
