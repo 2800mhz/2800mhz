@@ -54,7 +54,12 @@ Beyond conventional software development, I architect comprehensive technical ec
 
 ---
 
+---
+
+<h3 align="center">Connect</h3>
+
 <p align="center">
+  <a href="https://2800mhz.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:gcmsx3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/2.8ghz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
