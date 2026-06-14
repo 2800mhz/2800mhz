@@ -7,7 +7,7 @@
 ### About the Architecture
 > *Bridging the gap between high-performance computing, technical art, and artificial intelligence.*
 
-The landscape of interactive media is no longer just about rendering pixels; it is about engineering intelligent systems that can think, generate, and optimize. With over 6 years of deep-rooted experience in 3D pipelines, game engine architecture, and interactive storytelling, my focus has evolved from traditional development to building next-generation technical infrastructure. 
+The landscape of interactive media is no longer just about rendering pixels; it is about engineering intelligent systems that can think, generate, and optimize. With over 7 years of deep-rooted experience in 3D pipelines, game engine architecture, and interactive storytelling, my focus has evolved from traditional development to building next-generation technical infrastructure. 
 
 My expertise lies at the intersection of creative vision and raw computational power. I specialize in developing custom AI-driven tools, designing procedural workflows, and engineering scalable local server clusters that push hardware limits to run heavy models autonomously. By bringing high-performance computing in-house, I maintain complete architectural control over the environments I build.
 
