@@ -1,22 +1,20 @@
-### Hey, I'm 2800mhz
-
-**AI Builder** | **Independent Game Developer**
-
----
-
-### About Me
-
-* Crafting the future of interactive media and 3D pipelines.
-* Always experimenting with high-performance computing and technical art.
+### 2800mhz
+**AI Builder | Independent Game Developer**
 
 ---
 
-### Side Quests
+### About the Architecture
+> *Bridging the gap between high-performance computing, technical art, and artificial intelligence.*
 
-* Optimizing local AI server clusters.
-* Running autonomous trading agents.
-* Building a full-stack cinematographic AI agent to bring history back to life through documentaries.
-* Calculating direct ascent trajectories for orbital mechanics.
+With over 6 years of experience in 3D pipelines and interactive media, my focus is on building next-generation infrastructure. I specialize in developing custom AI-driven tools, scalable local server clusters, and autonomous systems. Rather than just writing standard code, I architect complete technical ecosystems designed to disrupt traditional workflows and push the boundaries of digital storytelling.
+
+---
+
+### Side Quests & R&D
+* **Infrastructure:** Optimizing local AI server clusters for heavy compute tasks.
+* **Algorithmic Logic:** Running autonomous agents for high-frequency trading.
+* **Cinematographic AI:** Building full-stack agents to resurrect historical narratives through data-driven documentaries.
+* **Applied Physics:** Calculating direct ascent trajectories for orbital mechanics.
 
 ---
 
