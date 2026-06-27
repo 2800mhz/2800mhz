@@ -7,19 +7,17 @@
 ### About the Architecture
 > *Bridging the gap between high-performance computing, technical art, and artificial intelligence.*
 
-The landscape of interactive media is no longer just about rendering pixels; it is about engineering intelligent systems that can think, generate, and optimize. With over 7 years of deep-rooted experience in 3D pipelines, game engine architecture, and interactive storytelling, my focus has evolved from traditional development to building next-generation technical infrastructure. 
+I build autonomous systems at the intersection of creative vision and raw computational power. My focus is on developing custom AI-driven tools, designing procedural workflows, and engineering scalable local infrastructure that pushes hardware limits to run heavy models autonomously.
 
-My expertise lies at the intersection of creative vision and raw computational power. I specialize in developing custom AI-driven tools, designing procedural workflows, and engineering scalable local server clusters that push hardware limits to run heavy models autonomously. By bringing high-performance computing in-house, I maintain complete architectural control over the environments I build.
-
-Beyond conventional software development, I architect comprehensive technical ecosystems. Whether it is orchestrating autonomous agents, structuring complex data-driven cinematographic pipelines, or integrating local AI into production workflows, my goal is to disrupt traditional industry standards. I don't just write standard code; I build the autonomous engines that drive the future of digital storytelling and technical art.
+By bringing high-performance computing in-house, I maintain complete architectural control over the environments I build — from GPU governor orchestration and temporal video analysis pipelines to reinforcement learning simulations and meta-learning reasoning frameworks.
 
 ---
 
-### Side Quests & R&D
-* **Infrastructure:** Optimizing local AI server clusters for heavy compute tasks.
-* **Algorithmic Logic:** Running autonomous agents for high-frequency trading.
-* **Cinematographic AI:** Building full-stack agents to resurrect historical narratives through data-driven documentaries.
-* **Applied Physics:** Calculating direct ascent trajectories for orbital mechanics.
+### Active R&D & Open Source
+* **Local AI Infrastructure:** GPU governor and VRAM-aware model session orchestration for consumer-grade hardware.
+* **Temporal & Visual Understanding:** Shot boundary detection, scene graph construction, and proxy-based video analysis.
+* **Reinforcement Learning:** Multi-agent competitive environments and biological system modeling.
+* **Meta-Learning:** Task-aware reasoning with latent context modeling and dynamic module architectures.
 
 ---
 
