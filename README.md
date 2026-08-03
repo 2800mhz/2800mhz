@@ -3,7 +3,7 @@
 </h1>
 
 ---
-I had an AI write this text — I didn't even read it.
+I had an AI write this text — I did not even read iT.
 ### About the Architecture
 > *Bridging the gap between high-performance computing, technical art, and artificial intelligence.*
 
