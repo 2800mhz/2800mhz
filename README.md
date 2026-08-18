@@ -5,8 +5,6 @@
 ---
 I had an AI write this text — I did not even read iT.
 ### About the Architecture
-> *Bridging the gap between high-performance computing, technical art, and artificial intelligence.*
-
 I build autonomous systems at the intersection of creative vision and raw computational power. My focus is on developing custom AI-driven tools, designing procedural workflows, and engineering scalable local infrastructure that pushes hardware limits to run heavy models autonomously.
 
 By bringing high-performance computing in-house, I maintain complete architectural control over the environments I build — from GPU governor orchestration and temporal video analysis pipelines to reinforcement learning simulations and meta-learning reasoning frameworks.
@@ -20,19 +18,6 @@ By bringing high-performance computing in-house, I maintain complete architectur
 * **Meta-Learning:** Task-aware reasoning with latent context modeling and dynamic module architectures.
 
 ---
-
-<h3 align="center">Technologies & Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-</p>
 
 ---
 
