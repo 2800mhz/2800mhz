@@ -24,7 +24,12 @@ By bringing high-performance computing in-house, I maintain complete architectur
 <h3 align="center">GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2800mhz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2800mhz&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=2800mhz&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="2800mhz's GitHub stats" />
+  </a>
 </p>
 
 <p align="center">
