@@ -51,12 +51,4 @@ By bringing high-performance computing in-house, I maintain complete architectur
   <a href="mailto:gcmsx3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/2.8ghz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-<!-- TRAFFIC_START -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Clones-984-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unique%20Cloners-596-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Views-312-orange?style=for-the-badge" />
-</p>
-<p align="center"><sub>~ Auto-updated: 2026-08-02</sub></p>
 
-<!-- TRAFFIC_END -->
